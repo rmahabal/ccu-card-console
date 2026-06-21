@@ -1,0 +1,9 @@
+# Dependencies (dev-only: the baker's jsdom etc.)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
